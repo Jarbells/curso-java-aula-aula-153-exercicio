@@ -1,0 +1,1 @@
+## Exercício sobre enums, composição e uso de objeto StringBuilder.
